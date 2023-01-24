@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @doganseyfisen, I studied **Automotive Engineering (BEng)**, and nowadays I'm a **History of Science MA** student.
-- 👀 I’m interested in **Engineering**, **History of Science and Technology**, **Java** and **Python**.
+- 👀 I’m interested in **Java** and **Python**.
 - 🌱 I’m currently learning **Java** and **Python**.
 - 💞️ I’m looking to collaborate on ***first of all*** **Backend**, but I'm ***always*** open to other interesting things too. I'm also open to any offer like **internship**, **part-time** or **full-time work**.
 - 📫 You can reach me via doganseyfisen@gmail.com or [Twitter](https://twitter.com/dogan_seyfi_sen) or [LinkedIn](https://www.linkedin.com/in/doganseyfisen)
