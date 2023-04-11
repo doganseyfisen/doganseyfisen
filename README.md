@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @doganseyfisen, I studied **Automotive Engineering (BEng)**, and nowadays I'm a **History of Science (MA)** student.
+- 👋 Hi, I’m **@doganseyfisen**, I studied **Automotive Engineering (BEng)**, and nowadays I'm a **History of Science (MA)** student.
 - 💻 I’m mostly interested in **Java** and **Python**.
 - 🔭 I’m looking for a job on the side of, ***preferably***, **Back-end**. But of course I'm ***always*** open to other interesting offers too.
 - 📨 You can reach me via doganseyfisen@gmail.com or [Twitter](https://twitter.com/dogan_seyfi_sen) or [LinkedIn](https://www.linkedin.com/in/doganseyfisen)
