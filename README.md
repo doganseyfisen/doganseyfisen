@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@doganseyfisen**, I studied **Automotive Engineering (BEng)**, and nowadays I'm a **History of Science (MA)** student.
-- 💻 I’m mostly interested in **Java** and **Python**.
+- 💻 I’m mostly interested in **Python** and **Java**.
 - 🔭 I’m looking for a job ***preferably*** on the side of **back-end**. But of course I'm ***always*** open to other interesting offers too.
 - 📨 You can reach me via doganseyfisen@gmail.com or [Twitter](https://twitter.com/dogan_seyfi_sen) or [LinkedIn](https://www.linkedin.com/in/doganseyfisen)
 - 👨‍💻 My HackerRank and LeetCode profiles are [HackerRank](https://www.hackerrank.com/doganseyfisen) and [LeetCode](https://leetcode.com/doganseyfisen/)
