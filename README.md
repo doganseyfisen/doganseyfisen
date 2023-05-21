@@ -5,6 +5,9 @@
 - 📨 You can reach me via doganseyfisen@gmail.com, [Twitter](https://twitter.com/dogan_seyfi_sen), or [LinkedIn](https://www.linkedin.com/in/doganseyfisen)
 - 👨‍💻 My HackerRank and LeetCode profiles are [LeetCode](https://leetcode.com/doganseyfisen/) and [HackerRank](https://www.hackerrank.com/doganseyfisen).
 
+## Projects
+* To see my projects: [link](https://github.com/stars/doganseyfisen/lists/my-projects)
+
 ## Skills
 * ![Python](https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white)
 * ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
