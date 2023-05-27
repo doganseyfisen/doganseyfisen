@@ -7,7 +7,7 @@
 
 # Projects
 - **Here are my Python (Django, Flask, Selenium, API, etc.) projects:** 
-- **[Click to view](https://github.com/stars/doganseyfisen/lists/my-projects)**
+- **[Click to view](https://github.com/stars/doganseyfisen/lists/my-py-projects)**
 
 # Skills
 * ![Python](https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white)
