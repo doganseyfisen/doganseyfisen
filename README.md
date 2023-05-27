@@ -1,14 +1,15 @@
-## About me
+# About me
 - 👋 Hi, I’m **@doganseyfisen**, I studied **Automotive Engineering (BEng)**, and a **History of Science (MA)**.
 - 💻 I’m mostly interested in **Python**, **Java**, and **JavaScript**.
 - 🔭 I’m looking for a job **preferably** on the side of **back-end**. Of course I'm **always** open to other interesting offers too.
 - 📨 You can reach me via doganseyfisen@gmail.com, [Twitter](https://twitter.com/dogan_seyfi_sen), or [LinkedIn](https://www.linkedin.com/in/doganseyfisen)
 - 👨‍💻 My HackerRank and LeetCode profiles are [LeetCode](https://leetcode.com/doganseyfisen/) and [HackerRank](https://www.hackerrank.com/doganseyfisen).
 
-## Projects
-* To see my projects: [link](https://github.com/stars/doganseyfisen/lists/my-projects)
+# Projects
+- **Here are my Python (Django, Flask, Selenium, API, etc.) projects:** 
+- **[Click to view](https://github.com/stars/doganseyfisen/lists/my-projects)**
 
-## Skills
+# Skills
 * ![Python](https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white)
 * ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
 * ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
