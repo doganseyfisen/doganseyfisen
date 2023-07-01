@@ -19,3 +19,5 @@
 * ![Flask](https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white)
 * ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)
 * ![Selenium](https://img.shields.io/badge/Selenium-%2300A98F.svg?logo=selenium&logoColor=white)
+
+<a rel="me" href="https://mastodon.social/@doganseyfisen">Mastodon</a>
