@@ -1,22 +1,17 @@
 # About me
-- 👋 Hi, I’m **@doganseyfisen**, I studied **Automotive Engineering (BEng)**, and a **History of Science (MA)**.
-- 💻 I’m mostly interested in **Python**.
-- 🔭 I’m looking for a job **preferably** on the side of **back-end**. Of course I'm **always** open to other interesting offers too.
-- 📨 You can reach me via doganseyfisen@gmail.com, [Twitter](https://twitter.com/dogan_seyfi_sen), or [LinkedIn](https://www.linkedin.com/in/doganseyfisen)
-- 👨‍💻 My HackerRank and LeetCode profiles are [LeetCode](https://leetcode.com/doganseyfisen/) and [HackerRank](https://www.hackerrank.com/doganseyfisen).
+- Passionate about coding since my early college years, I quickly realized its allure surpassed my engineering studies. Starting with courses in *Basic Computer Programming and MATLAB* and later exploring languages like *Fortran*, I eventually found my focus in *Java* and *Python*. Constantly seeking new resources and connections to enhance my skills, I am driven to stay up-to-date with the latest trends in technology.
+- Dedicated to completing tasks and assuming responsibility for their success, I thrive in collaborative team environments. I strongly believe in the power of interdisciplinary collaborations and the benefits they bring. While my main goal is to excel in development, my ultimate ambition is to become a renowned *Python/Java* expert, making a lasting impact in the field.
+
+# Contact
+- [E-mail](doganseyfisen@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/doganseyfisen)
+- [LeetCode](https://leetcode.com/doganseyfisen/)
+- [HackerRank](https://www.hackerrank.com/doganseyfisen)
+
+# Programming Skills
+- **Python** (*Django, Flask, Selenium*), **Java** (*Spring*), **SQL** (*PostgreSQL, MySQL, SQLite*)
+- **JavaScript**, **HTML**, **CSS**, **MATLAB**
 
 # Projects
 - **Here are my Python (Django, Flask, Selenium, API, etc.) projects:** 
 - **[Click to view](https://github.com/stars/doganseyfisen/lists/my-py-projects)**
-
-# Skills
-* ![Python](https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white)
-* ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
-* ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
-* ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-* ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white)
-* ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
-* ![Flask](https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white)
-* ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)
-* ![Selenium](https://img.shields.io/badge/Selenium-%2300A98F.svg?logo=selenium&logoColor=white)
-
