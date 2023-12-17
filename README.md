@@ -10,7 +10,7 @@
 ### Open to positions (remote is preferred):
 - Back-End Developer
 - Data Scientist
-- Python Developer
+- Python & Java Developer
 - Projects requiring a blend of Engineering, Back-End and Data Science expertise
 
 ### Contact
