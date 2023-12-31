@@ -2,7 +2,7 @@
 - Python (Django, Flask, FastAPI, Selenium)
 - Java (Spring)
 - SQL (SQLite, MySQL, PostgreSQL)
-- HTML, CSS & JavaScript
+- HTML, CSS & JavaScript (Vue)
 - Docker, Kubernetes & OpenShift
 - Git & Bash
 - R
