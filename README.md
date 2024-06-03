@@ -1,7 +1,7 @@
 ### Hi!
-- I’ve a strong commitment to continuous learning.
-- When it comes to research and learning, I prioritize accurate, high-quality, and up-to-date sources.
-- My philomath personality has also strengthened my time management and personal discipline skills.
+I was introduced to coding during my undergraduate studies and soon after, due to my passion for the history of
+science, I continued to develop my programming skills while pursuing graduate studies in this field. I am
+dedicated to continuous learning and being a versatile person.
 
 ### Contact
-- LinkedIn: [doganseyfisen](https://www.linkedin.com/in/doganseyfisen/)
+LinkedIn: [doganseyfisen](https://www.linkedin.com/in/doganseyfisen/)
